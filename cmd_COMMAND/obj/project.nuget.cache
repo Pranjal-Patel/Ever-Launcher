@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x3qt5QQEJtvgclWui/wn1o249bG8bv20gUOG6fNYJY8A+oeTispeZBqsUYeY5ZjM8OO/aUrCaYRZIM/gC7m/Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SATYENDRA\\source\\repos\\cmd_COMMAND\\cmd_COMMAND\\cmd_COMMAND.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SATYENDRA\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
